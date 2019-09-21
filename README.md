@@ -36,7 +36,7 @@ ansible/roles/init/images/tiller.tgz
     - Bridge-nf-call-ip(ipv6)tables is disabled
     - WARNING IPv4 forwarding is disabled
   - 配置非安全仓库(默认为私有仓库)
-  - //Docker加速地址(默认https://7bezldxe.mirror.aliyuncs.com)
+  - //Docker加速地址(默认https://7krgra6i.mirror.aliyuncs.com)
   - //如果私有仓库有Haproxy、Tiller、Keepalived镜像则直接拉取，没有则分发镜像压缩包到节点
 
 1. 本地更新配置文件
