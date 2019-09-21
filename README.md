@@ -1,7 +1,7 @@
 # Rancher Auto-deploy
 Rancher 自动部署
 
-`以下三个文件较大，直接git clone 会比较慢，也可以自行下载后mv到指定path`
+`以下三个文件较大，直接git clone /push 会比较慢，也可以自行下载后mv到指定path`
 ```
 ansible/roles/init/images/haproxy.tgz
 ansible/roles/init/images/keepalived.tgz
